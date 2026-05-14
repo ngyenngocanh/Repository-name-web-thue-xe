@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 64" role="img" aria-label="MoMo">
+  <defs>
+    <linearGradient id="momoBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a50064"/>
+      <stop offset="100%" style="stop-color:#d82d8b"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="64" rx="12" fill="url(#momoBg)"/>
+  <text x="100" y="42" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-weight="800" font-size="28" letter-spacing="0.04em">MoMo</text>
+</svg>

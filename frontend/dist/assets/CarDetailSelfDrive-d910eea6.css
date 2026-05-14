@@ -1,0 +1,1 @@
+.no-scrollbar[data-v-bf8cbc2c]::-webkit-scrollbar{display:none}.no-scrollbar[data-v-bf8cbc2c]{-ms-overflow-style:none;scrollbar-width:none}.spinner[data-v-bf8cbc2c]{border:4px solid rgba(0,0,0,.1);width:36px;height:36px;border-radius:50%;border-left-color:#09f;animation:spin-bf8cbc2c 1s linear infinite}@keyframes spin-bf8cbc2c{0%{transform:rotate(0)}to{transform:rotate(360deg)}}

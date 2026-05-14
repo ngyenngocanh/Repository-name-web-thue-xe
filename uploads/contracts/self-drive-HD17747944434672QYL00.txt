@@ -1,0 +1,238 @@
+
+                                    CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+                                        Độc lập - Tự do - Hạnh phúc
+                                    -------------------------------------
+
+
+
+                                    HỢP ĐỒNG CHO THUÊ XE TỰ LÁI
+                                      (Số: HD17747944434672QYL00/HĐTX)
+
+
+
+
+CHÚNG TÔI GỒM CÓ:
+
+BÊN CHO THUÊ XE (gọi tắt là "Bên A"):
+    - Tên công ty/doanh nghiệp/cá nhân: Lê Văn Cường
+    - Người đại diện: Lê Văn Cường
+    - Chức vụ: Chủ sở hữu xe/Đại diện hợp pháp
+    - Địa chỉ: _________________
+    - Số điện thoại: 0934567890
+    - Email: levancuong@email.com
+    - Số CMND/CCCD: {}
+    - Mã số thuế (nếu có): _________________
+
+VÀ
+
+BÊN THUÊ XE (gọi tắt là "Bên B"):
+    - Họ và tên: 12312312312123123123
+    - Ngày sinh: Fri Feb 11 2000 07:00:00 GMT+0700 (Indochina Time)
+    - Số CMND/CCCD: 12312312
+    - Ngày cấp: _________________     Nơi cấp: _________________
+    - Hộ khẩu thường trú: _________________
+    - Địa chỉ hiện tại: _________________
+    - Số điện thoại: 12312313213
+    - Email: abc@gmail.com
+    - Số GPLX: { number: '12312312' }     Hạng: _________________
+
+
+Hai bên cùng thỏa thuận ký kết Hợp đồng cho thuê xe tự lái (gọi tắt là "Hợp đồng") 
+với các điều khoản và điều kiện cụ thể như sau:
+
+
+ĐIỀU 1. ĐỐI TƯỢNG CỦA HỢP ĐỒNG
+
+1.1.  Bên A đồng ý cho Bên B thuê và Bên B đồng ý thuê phương tiện ô tô với 
+các thông số kỹ thuật và tính năng sau:
+
+    + Hãng sản xuất: Mazda
+    + Dòng xe: 3
+    + Năm sản xuất: 2022
+    + Màu sắc: Đỏ
+    + Biển số đăng ký: 51M-33333
+    + Số khung (VIN): _________________
+    + Số máy: _________________
+    + Số chỗ ngồi: 5 chỗ
+    + Loại nhiên liệu: Xăng/Dầu
+    + Tiêu thụ nhiên liệu: _____ lít/100km
+    + Tình trạng xe khi bàn giao: Tốt
+
+1.2.  Xe trên thuộc quyền sở hữu hợp pháp của Bên A, không có tranh chấp, 
+khiếu nại hoặc kê biên từ cơ quan có thẩm quyền.
+
+
+ĐIỀU 2. THỜI HẠN VÀ MỤC ĐÍCH THUÊ XE
+
+2.1.  Thời hạn thuê xe: Từ 24/4/2026 đến 27/4/2026
+      (Tổng cộng: 3 ngày)
+
+2.2.  Mục đích thuê xe: Để phục vụ nhu cầu đi lại cá nhân/công việc của Bên B.
+      Bên B cam kết KHÔNG sử dụng xe vào các mục đích:
+      - Vận chuyển hàng hóa vi phạm pháp luật, hàng cấm
+      - Tham gia đua xe, lạng lách, đánh võng
+      - Cầm cố, thế chấp hoặc cho thuê lại
+      - Sử dụng vào mục đích kinh doanh vận tải
+
+
+ĐIỀU 3. GIÁ TRỊ HỢP ĐỒNG VÀ PHƯƠNG THỨC THANH TOÁN
+
+3.1.  Giá trị Hợp đồng được tính như sau:
+
+      a) Giá thuê xe: 750.000 VNĐ/ngày
+      
+      b) Số ngày thuê: 3 ngày
+      
+      c) Tổng tiền thuê xe (a x b): 2.250.000 VNĐ
+         (Bằng chữ: 2.25 triệu đồng chẵn)
+      
+      d) Phụ phí (nếu có): 200.000 VNĐ
+      
+      e) Bảo hiểm thuê xe: 0 VNĐ
+      
+      f) Tổng giá trị Hợp đồng (c + d + e): 2.572.500 VNĐ
+         (Bằng chữ: 2.573 triệu đồng chẵn)
+
+3.2.  Tiền đặt cọc: 771.750 VNĐ
+      (Thanh toán khi nhận xe)
+
+3.3.  Số tiền còn lại phải thanh toán: 1.800.750 VNĐ
+
+3.4.  Phương thức thanh toán: 
+      [X] Tiền mặt
+      [ ] Chuyển khoản ngân hàng
+      [ ] VNPay
+      [ ] Ví Momo
+
+
+ĐIỀU 4. THỜI GIAN, ĐỊA ĐIỂM GIAO NHẬN XE
+
+4.1.  Thời gian giao xe: 09:00 ngày 24/4/2026
+4.2.  Địa điểm giao xe: 123123213, Phường Thành Sen, Hà Tĩnh
+
+4.3.  Thời gian nhận lại xe: 09:00 ngày 27/4/2026
+4.4.  Địa điểm nhận lại xe: 23, Xã Hiền Kiệt, Thanh Hóa
+
+
+ĐIỀU 5. QUYỀN VÀ NGHĨA VỤ CỦA BÊN A
+
+5.1.  Quyền của Bên A:
+      a) Nhận đủ tiền thuê xe theo thỏa thuận;
+      b) Kiểm tra tình trạng xe khi nhận lại;
+      c) Yêu cầu Bên B bồi thường thiệt hại nếu có;
+      d) Đơn phương chấm dứt Hợp đồng nếu Bên B vi phạm nghiêm trọng.
+
+5.2.  Nghĩa vụ của Bên A:
+      a) Giao xe đúng thời hạn, địa điểm, chất lượng như cam kết;
+      b) Cung cấp đầy đủ giấy tờ xe: Đăng ký, Đăng kiểm, Bảo hiểm;
+      c) Bảo đảm xe không có tranh chấp, khiếu kiện;
+      d) Chịu trách nhiệm pháp lý về nguồn gốc xe;
+      e) Hỗ trợ kỹ thuật trong thời gian thuê (nếu cần).
+
+
+ĐIỀU 6. QUYỀN VÀ NGHĨA VỤ CỦA BÊN B
+
+6.1.  Quyền của Bên B:
+      a) Sử dụng xe đúng mục đích, thời hạn thỏa thuận;
+      b) Yêu cầu Bên A giao xe đúng chất lượng;
+      c) Được Bên A hỗ trợ khi xe gặp sự cố;
+      d) Nhận lại tiền đặt cọc sau khi trả xe đúng hạn, đúng tình trạng.
+
+6.2.  Nghĩa vụ của Bên B:
+      a) Thanh toán đầy đủ, đúng hạn các khoản tiền theo Hợp đồng;
+      b) Xuất trình GPLX hợp lệ, đúng hạng lái xe;
+      c) Kiểm tra kỹ xe trước khi nhận và ký biên bản bàn giao;
+      d) Sử dụng xe an toàn, đúng luật giao thông;
+      e) Không tự ý sửa chữa, thay đổi kết cấu xe;
+      f) Chịu phạt nguội, vi phạm giao thông phát sinh;
+      g) Trả xe đúng thời hạn, địa điểm, tình trạng như khi nhận;
+      h) Bồi thường thiệt hại do lỗi của mình gây ra.
+
+
+ĐIỀU 7. PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI
+
+7.1.  Trả xe muộn:
+      - Trễ 01-03 giờ: Phạt 20% giá thuê/ngày
+      - Trễ 03-06 giờ: Phạt 50% giá thuê/ngày
+      - Trễ trên 06 giờ: Tính thêm 01 ngày thuê
+
+7.2.  Vi phạm giao thông: Bên B chịu hoàn toàn trách nhiệm và chi phí.
+
+7.3.  Hư hỏng xe:
+      - Do lỗi chủ quan: Bên B bồi thường 100% chi phí sửa chữa
+      - Mất xe/bộ phận xe: Bên B bồi thường theo giá trị thực tế
+
+7.4.  Sai mục đích sử dụng: Phạt 50% giá trị Hợp đồng.
+
+
+ĐIỀU 8. BẢO HIỂM
+
+8.1.  Xe đã được mua bảo hiểm bắt buộc TNDS bên thứ ba.
+
+8.2.  Bên B có thể mua thêm bảo hiểm tự nguyện cho thời gian thuê.
+
+8.3.  Tai nạn xảy ra: Bên B phải:
+      - Dừng xe, bảo vệ hiện trường;
+      - Báo ngay cho Bên A và cơ quan công an;
+      - Hợp tác giải quyết theo quy định pháp luật.
+
+
+ĐIỀU 9. CHẤM DỨT HỢP ĐỒNG
+
+9.1.  Hợp đồng chấm dứt khi:
+      a) Hết thời hạn thuê;
+      b) Hai bên thỏa thuận chấm dứt;
+      c) Một bên vi phạm nghiêm trọng;
+      d) Bất khả kháng.
+
+9.2.  Chấm dứt sớm: Thanh toán theo ngày thực tế + phí chấm dứt 20%.
+
+
+ĐIỀU 10. GIẢI QUYẾT TRANH CHẤP
+
+10.1. Ưu tiên giải quyết thông qua thương lượng.
+
+10.2. Không thành: Yêu cầu Trung tâm Trọng tài/ Tòa án có thẩm quyền.
+
+10.3. Áp dụng pháp luật Việt Nam.
+
+
+ĐIỀU 11. CAM KẾT CHUNG
+
+11.1. Hai bên cam kết thực hiện đúng các điều khoản.
+
+11.2. Mọi thay đổi phải được lập thành văn bản phụ lục.
+
+11.3. Phụ lục là bộ phận không tách rời của Hợp đồng.
+
+
+ĐIỀU 12. HIỆU LỰC HỢP ĐỒNG
+
+12.1. Hợp đồng có hiệu lực từ ngày ký.
+
+12.2. Lập thành 02 (hai) bản, mỗi bên giữ 01 (một) bản có giá trị như nhau.
+
+
+
+
+
+                                              Ngày 29 tháng 3 năm 2026
+
+
+
+
+    BÊN CHO THUÊ XE (BÊN A)                BÊN THUÊ XE (BÊN B)
+      (Ký, ghi rõ họ tên)                     (Ký, ghi rõ họ tên)
+
+
+
+
+    Lê Văn Cường                      12312312312123123123
+
+
+
+
+
+--------------------------------------------------------------------------------
+HỢP ĐỒNG ĐIỆN TỬ - Có giá trị pháp lý theo Luật Giao dịch điện tử số 21/2023/QH15
+Mã hợp đồng: HD17747944434672QYL00 | Thời gian tạo: 21:27:23 29/3/2026

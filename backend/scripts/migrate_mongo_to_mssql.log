@@ -1,0 +1,25 @@
+[2026-05-08T14:54:36.386Z] Connecting Mongo...
+[2026-05-08T14:54:37.113Z] Connecting SQL Server...
+[2026-05-08T14:54:37.340Z] Wiping SQL tables...
+[2026-05-08T14:54:53.121Z] [Users] 10
+[2026-05-08T14:54:55.507Z] [Users] referenced=27 current=10 missing=19
+[2026-05-08T14:54:55.612Z] [Users] placeholder ensured=19 (total users now should cover all references)
+[2026-05-08T14:54:55.612Z] [Users] placeholder inserted~=19
+[2026-05-08T14:54:55.832Z] [Addresses] 333
+[2026-05-08T14:54:56.250Z] [Addresses] inserted=333
+[2026-05-08T14:54:56.647Z] [Cars] 4
+[2026-05-08T14:54:56.682Z] [Cars] inserted=4
+[2026-05-08T14:54:57.692Z] [Bookings] 45
+[2026-05-08T14:54:57.790Z] [Bookings] inserted=45
+[2026-05-08T14:54:57.950Z] [Bookings] referenced=46 current=45 missing=23
+[2026-05-08T14:54:57.986Z] [Bookings] placeholder ensured=23
+[2026-05-08T14:54:57.987Z] [Bookings] placeholder inserted~=23
+[2026-05-08T14:54:58.041Z] [Reviews] 14
+[2026-05-08T14:54:58.057Z] [Reviews] inserted=14
+[2026-05-08T14:54:58.262Z] [Contracts] 23
+[2026-05-08T14:54:58.299Z] [Contracts] inserted=23
+[2026-05-08T14:54:58.354Z] [Notifications] 37
+[2026-05-08T14:54:58.442Z] [Payouts] 0
+[2026-05-08T14:54:58.492Z] [TripConfigs] 1
+[2026-05-08T14:54:58.547Z] [TripSettings] 1
+[2026-05-08T14:54:58.552Z] Done.

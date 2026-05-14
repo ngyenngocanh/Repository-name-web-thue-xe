@@ -1,0 +1,119 @@
+
+================================================================================
+                          HỢP ĐỒNG CHO THUÊ XE TỰ LÁI
+================================================================================
+
+Số hợp đồng: HD1774667825380VV0E5R
+Ngày ký kết: 28/3/2026
+
+BÊN CHO THUÊ XE (BÊN A):
+Tên công ty/doanh nghiệp: Cá nhân
+Đại diện: Admin CarRental
+Chức vụ: Chủ sở hữu xe
+Địa chỉ: Chưa cập nhật
+Số điện thoại: 0901234567
+Email: admin@carrental.vn
+Số CMND/CCCD: {}
+Mã số thuế: Chưa cập nhật
+
+BÊN THUÊ XE (BÊN B):
+Họ và tên: abc
+Ngày sinh: Wed Feb 02 2000 07:00:00 GMT+0700 (Indochina Time)
+Địa chỉ: Chưa cập nhật
+Số điện thoại: 0929319239
+Email: abc@gmail.com
+Số CMND/CCCD: {}
+Số bằng lái xe: Chưa cập nhật
+Hạng bằng lái: Chưa cập nhật
+
+THÔNG TIN XE CHO THUÊ:
+- Hãng sản xuất: Honda
+- Dòng xe: 213213
+- Năm sản xuất: 2026
+- Màu sắc: Trắng
+- Biển số đăng ký: 21321313
+- Số khung: Chưa cập nhật
+- Số máy: Chưa cập nhật
+- Số chỗ ngồi: 5 chỗ
+- Nhiên liệu: Xăng
+- Tiêu thụ nhiên liệu: Chưa cập nhật l/100km
+- Tình trạng xe: Tốt
+
+THỜI HẠN THUÊ XE:
+- Thời điểm bắt đầu: 28/3/2026
+- Thời điểm kết thúc: 29/3/2026
+- Tổng số ngày thuê: 1 ngày
+
+GIÁ TRỊ HỢP ĐỒNG:
+- Giá thuê xe cơ bản: 0 VNĐ/ngày
+- Tổng tiền thuê xe: 12.321 VNĐ
+- Phụ phí (nếu có): 0 VNĐ
+- Bảo hiểm bắt buộc: 0 VNĐ
+- Tổng cộng: 200.000 VNĐ
+- Đặt cọc: 3.696 VNĐ
+- Số tiền còn lại: 196.304 VNĐ
+
+ĐIỀU 1: NỘI DUNG HỢP ĐỒNG
+Bên A đồng ý cho Bên B thuê xe với các điều kiện như trên.
+
+ĐIỀU 2: QUYỀN VÀ NGHĨA VỤ CỦA BÊN A
+1. Giao xe đúng thời hạn, địa điểm thỏa thuận.
+2. Xe phải đảm bảo an toàn, kỹ thuật tốt, đầy đủ giấy tờ.
+3. Hỗ trợ Bên B trong quá trình sử dụng xe.
+4. Bảo mật thông tin của Bên B.
+
+ĐIỀU 3: QUYỀN VÀ NGHĨA VỤ CỦA BÊN B
+1. Thanh toán đầy đủ các khoản phí theo thỏa thuận.
+2. Sử dụng xe đúng mục đích, an toàn, đúng luật.
+3. Bảo quản xe cẩn thận, không tự ý sửa chữa.
+4. Thông báo ngay cho Bên A nếu xe hỏng hóc.
+5. Trả xe đúng thời hạn, địa điểm thỏa thuận.
+6. Chịu trách nhiệm về các vi phạm pháp luật khi sử dụng xe.
+7. Không được phép cho người khác lái xe.
+
+ĐIỀU 4: ĐIỀU KIỆN SỬ DỤNG XE
+1. Xe chỉ được sử dụng trong phạm vi Việt Nam.
+2. Không sử dụng xe để vận chuyển hàng cấm, chất dễ cháy nổ.
+3. Không sử dụng xe để đua xe, lạng lách, vi phạm luật giao thông.
+4. Tuân thủ các quy định về an toàn giao thông.
+
+ĐIỀU 5: BẢO HIỂM
+1. Xe đã được bảo hiểm bắt buộc theo quy định pháp luật.
+2. Bên B có thể mua thêm bảo hiểm tự nguyện.
+3. Bên B chịu trách nhiệm về các hư hỏng do lỗi chủ quan.
+4. Trường hợp tai nạn, Bên B phải báo ngay cho Bên A và cơ quan chức năng.
+
+ĐIỀU 6: TRÁCH NHIỆM BỒI THƯỜNG
+1. Bên B chịu trách nhiệm bồi thường toàn bộ thiệt hại nếu:
+   - Lái xe không đúng quy trình, gây hư hỏng xe.
+   - Sử dụng xe sai mục đích.
+   - Để mất xe hoặc các bộ phận của xe.
+   - Vi phạm luật giao thông gây thiệt hại.
+2. Mức bồi thường theo giá trị thực tế của thiệt hại.
+
+ĐIỀU 7: CHẤM DỨT HỢP ĐỒNG
+1. Hợp đồng chấm dứt khi hết thời hạn.
+2. Hai bên có thể thỏa thuận chấm dứt sớm.
+3. Bên A có quyền đơn phương chấm dứt nếu Bên B vi phạm nghiêm trọng.
+4. Trường hợp chấm dứt sớm, phí sẽ tính theo ngày thực tế sử dụng.
+
+ĐIỀU 8: GIẢI QUYẾT TRANH CHẤP
+1. Ưu tiên giải quyết thông qua thương lượng.
+2. Nếu không thành, đưa ra Tòa án có thẩm quyền giải quyết.
+3. Áp dụng pháp luật Việt Nam.
+
+ĐIỀU 9: ĐIỀU KHOẢN CUỐI CÙNG
+1. Hợp đồng này được ký kết thành 02 bản, mỗi bên giữ 01 bản.
+2. Hợp đồng có hiệu lực từ ngày ký.
+3. Các phụ lục (nếu có) là bộ phận không tách rời của hợp đồng.
+
+ĐẠI DIỆN BÊN A:                           ĐẠI DIỆN BÊN B:
+Admin CarRental                           abc
+
+(Ký, ghi rõ họ tên)                      (Ký, ghi rõ họ tên)
+
+Ngày 28 tháng 3 năm 2026
+
+================================================================================
+CHỮ KÝ ĐIỆN TỬ - Hợp đồng có giá trị pháp lý tương đương hợp đồng giấy
+================================================================================
